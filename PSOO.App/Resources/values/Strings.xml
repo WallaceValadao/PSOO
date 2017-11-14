@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">PSOO.App</string>
+
+  <string name="login">Login: </string>
+  <string name="senha">Senha: </string>
+
+  <string name="btLogin">Login</string>
+  <string name="btLimpar">Limpar</string>
+  <string name="btCadastrar">Cadastrar</string>
+  
+</resources>
