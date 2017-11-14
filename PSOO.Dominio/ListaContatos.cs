@@ -6,5 +6,6 @@ namespace PSOO.Dominio
     {
         public int Id { get; set; }
         public ICollection<Perfil> Perfis { get; set; }
+        public int MyProperty { get; set; }
     }
 }
